@@ -1,0 +1,4 @@
+/* test */
+p{color:#f00;}
+  p a{color:#ff0;}
+    p a>img, div{color:#ff0;}
