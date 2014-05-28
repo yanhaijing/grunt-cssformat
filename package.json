@@ -1,7 +1,7 @@
 {
   "name": "grunt-cssformat",
   "description": "format css file",
-  "version": "0.1.0-1",
+  "version": "0.1.0-2",
   "homepage": "https://github.com/yanhaijing/grunt-cssformat",
   "author": {
     "name": "yanhaijing",
@@ -37,6 +37,8 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "gruntplugin"
+    "gruntplugin",
+    "cssformat",
+    "cssindent"
   ]
 }
