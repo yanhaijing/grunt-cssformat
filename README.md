@@ -1,4 +1,4 @@
-# grunt-cssformat
+# grunt-cssformat [![Build Status](https://travis-ci.org/yanhaijing/grunt-cssformat.svg)](https://travis-ci.org/yanhaijing/grunt-cssformat)
 
 > format indent css file
 
