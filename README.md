@@ -1,4 +1,4 @@
-# grunt-cssformat [![Build Status](https://travis-ci.org/yanhaijing/grunt-cssformat.svg?branch=master)](https://travis-ci.org/yanhaijing/grunt-cssformat) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![license](http://img.shields.io/npm/l/express.svg)](https://github.com/yanhaijing/grunt-cssformat/blob/master/LICENSE-MIT.txt)
+# grunt-cssformat [![Build Status](https://travis-ci.org/yanhaijing/grunt-cssformat.svg?branch=master)](https://travis-ci.org/yanhaijing/grunt-cssformat) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/) [![license](http://img.shields.io/npm/l/express.svg)](https://github.com/yanhaijing/grunt-cssformat/blob/master/LICENSE-MIT)
 
 > format indent css file
 
